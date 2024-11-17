@@ -1,3 +1,10 @@
 export default function Components() {
-  return <div>components</div>;
+  return <div>
+    <h1 className="text-3xl font-bold underline">
+      Components
+    </h1>
+    <div>
+
+    </div>
+  </div>;
 }
